@@ -13,3 +13,6 @@ Algorithms - Python
 - Branch and bound algorithms
 - Brute force algorithms
 - Randomized algorithms
+
+This project uses [poetry](https://python-poetry.org/docs/basic-usage/)
+

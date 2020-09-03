@@ -1,15 +1,8 @@
-Algorithms - Python
+# Randomized algorithms
 
-
-### All algorithms implemented in Python 
-
-### Directory:
-
-- Simple recursive algorithms
-- Backtracking algorithms
-- Divide and conquer algorithms
-- Dynamic programming algorithms
-- Greedy algorithms
-- Branch and bound algorithms
-- Brute force algorithms
-- Randomized algorithms
+A randomized algorithm uses a random number at
+least once during the computation to make a decision
+- Example: In Quicksort, using a random number to choose a
+pivot
+- Example: Trying to factor a large number by choosing
+random numbers as possible divisors
