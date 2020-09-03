@@ -1,5 +1,6 @@
 Algorithms - Python
 
+[![Build Status](https://travis-ci.org/Awinja-j/algorithms.svg?branch=master)](https://travis-ci.org/Awinja-j/algorithms)
 
 ### All algorithms implemented in Python 
 
